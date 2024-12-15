@@ -106,7 +106,7 @@ Output:
 ['leadtech', 'great']
 ```
 
-# Solucion 2
+# Solucion 3
 
 Complejidad temporal:
 - Construcción del Trie: O(W * L), donde W es el número de palabras y L su longitud promedio.
