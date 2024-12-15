@@ -23,7 +23,7 @@ Las principales bibliotecas a utilizar incluyen:
 	•	http para la comunicación con APIs y la recuperación de datos.
 
 # Ejercicio 2
-### En este ejercicio puedes descargar el código del siguiente repositorio: leadtechcorp/flutter-state-test: Test for flutter state (github.com). Como puedes ver al ejecutarlo tenemos varios widgets montando dos matrioskas. Lo que tenemos que conseguir es que el boton ‘+’ aumente el número que tiene la matrioska inferior. Las condiciones a cumplir son: 
+### En este ejercicio puedes descargar el código del siguiente repositorio: https://github.com/leadtechcorp/flutter-state-test. Como puedes ver al ejecutarlo tenemos varios widgets montando dos matrioskas. Lo que tenemos que conseguir es que el boton ‘+’ aumente el número que tiene la matrioska inferior. Las condiciones a cumplir son: 
 - Solo puedes cambiar tener 1 nuevo StatefulWidget en el proyecto (es decir, convertir un stateless a stateful).
 -  Puedes añadir tantas variables/constantes, constructores, parámetros/argumentos como necesites. 
 - Solo puedes añadir una función (si necesitas más justificarlo). 
