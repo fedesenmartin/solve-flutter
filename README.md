@@ -19,6 +19,7 @@ Las principales bibliotecas a utilizar incluyen:
 
 	•	flutter_bloc para gestionar el estado de la aplicación.
 	•	image_picker para manejar la selección de fotos y videos.
+ 	•	camera para la creacion de nuevas fotos y videos.
 	•	ffmpeg_kit_flutter para el procesamiento y optimización de videos.
 	•	http para la comunicación con APIs y la recuperación de datos.
 
